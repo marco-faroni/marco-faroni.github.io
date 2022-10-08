@@ -83,7 +83,7 @@ author:
   name             : "Marco Faroni"
   avatar           : "foto_marco.jpg"
   bio              : "Robotics researcher"
-  location         : "Ann Arbor, Michigan"
+  location         : #"Ann Arbor, Michigan"
   employer         : "University of Michigan"
   pubmed           : 
   googlescholar    : "https://scholar.google.it/citations?hl=en&user=jx0C-agAAAAJ"
