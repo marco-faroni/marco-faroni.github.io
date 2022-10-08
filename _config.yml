@@ -84,11 +84,11 @@ author:
   avatar           : "foto_marco.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Ann Arbor, Michigan"
-  employer         :
+  employer         : "University of Michigan"
   pubmed           : 
   googlescholar    : "https://scholar.google.it/citations?hl=en&user=jx0C-agAAAAJ"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Marco-Faroni" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Marco-Faroni" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
