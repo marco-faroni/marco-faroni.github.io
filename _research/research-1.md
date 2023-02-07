@@ -1,12 +1,20 @@
 ---
-layout: archive
-title: "Research"
-permalink: /research/
-author_profile: true
+title: "Teaching experience 1"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-{% include base_path %}
+This is a description of a teaching experience. You can use markdown like any other post.
 
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
