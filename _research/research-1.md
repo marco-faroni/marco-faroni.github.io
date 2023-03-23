@@ -4,4 +4,4 @@ excerpt: "Short description of research item number 1<br/><img src='/images/500x
 collection: research
 ---
 
-This is an item in your portfolio. 
+This is an item in your portfolio
