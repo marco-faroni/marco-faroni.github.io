@@ -18,5 +18,3 @@ C. Tonola, M. Faroni, M. Beschi, and N. Pedrocchi, “Anytime informed multi-pat
 
 M. Beschi, S. Mutti, G. Nicola, M. Faroni, P. Magnoni, E. Villagrossi, and N. Pedrocchi, “Optimal robot motion planning of redundant robots in machining and additive manufacturing applications,” Electronics, vol. 8, no. 12, p. 1473, 2019.
 [link](https://www.mdpi.com/2079-9292/8/12/1437)
-
-<br/><img src='/images/500x300.png'>
