@@ -1,9 +1,8 @@
 ---
 title: "Real-time trajectory scaling for optimal path following"
-excerpt: "Robot often need to adapt the trajectory on the fly to prevent collisions or tracking error. 
-The physical limits of the robot joints do not allow for error-free trajectory scaling or stopping, which is why online trajectory scaling if often needed to reduce the robot 
-path error.
-I've worked on the formulation of real-time (<1ms) trajectory scaling methods using model predictive control (MPC) and look-ahead techniques that reduce the robot path error in the case of 
+excerpt: "Robot often need to adapt the trajectory on the fly to prevent collisions or tracking errors. 
+The physical limits of the robot joints do not allow for error-free trajectory scaling or stopping, which is why online trajectory scaling is often needed to reduce the robot path error.
+I've worked on the formulation of real-time (<1ms) trajectory scaling methods using model predictive control (MPC) and look-ahead techniques to reduce the robot path error in the case of 
 redundant and non-redundant robots, and joint-space and Cartesian-space task.
 "
 collection: research
