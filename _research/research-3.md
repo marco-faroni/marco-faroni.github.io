@@ -19,11 +19,9 @@ dynamic bounds on joint movements,” IEEE Robotics and Automation Letters, vol.
 6442, 2020.
 [link](https://hal.science/hal-03157810/document)
 
-- M. Faroni, M. Beschi, V. Antonio, and L. Molinari Tosatti, “A predictive approach to redun-
-dancy resolution for robot manipulators,” IFAC-PapersOnLine, vol. 50, no. 1, pp. 8975–8980,
+- M. Faroni, M. Beschi, V. Antonio, and L. Molinari Tosatti, “A predictive approach to redundancy resolution for robot manipulators,” IFAC-PapersOnLine, vol. 50, no. 1, pp. 8975–8980,
 2017.
 [link](https://hal.science/hal-02982550/document)
 
-- M. Faroni, M. Beschi, N. Pedrocchi, and A. Visioli, “Viability and feasibility of constrained kine-
-matic control of manipulators,” Robotics, vol. 7, no. 3, pp. 1–19, 2018.
+- M. Faroni, M. Beschi, N. Pedrocchi, and A. Visioli, “Viability and feasibility of constrained kinematic control of manipulators,” Robotics, vol. 7, no. 3, pp. 1–19, 2018.
 [link](https://www.mdpi.com/2218-6581/7/3/41)
