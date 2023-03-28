@@ -14,4 +14,4 @@ My main research interest is in motion planning in challenging scenarios (e.g., 
 
 Email: mfaroni<code>&ensp;</code>[at]<code>&ensp;</code>umich.edu
 
-Email: mfaroni<space>[at]<code>&thinsp;</code>umich.edu
+Email: mfaroni&thinsp;[at]<code>&thinsp;</code>umich.edu
