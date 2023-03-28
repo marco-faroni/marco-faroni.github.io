@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find the complete list of my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can find the complete list of my articles on [my Google Scholar profile](https://scholar.google.it/citations?user=jx0C-agAAAAJ&hl=en&oi=ao).
 
-Here is a shortlist that spans the different research topics I've worked on:
+This is a shortlist that spans the different research topics I've worked on:
 
 - M. Faroni, A. Umbrico, M. Beschi, A. Orlandini, A. Cesta, and N. Pedrocchi, “Optimal task and motion planning and execution for multi-agent systems in dynamic environments,” IEEE Transactions on Cybernetics, 2023. (In press)
 [link](https://arxiv.org/abs/2303.14874)
