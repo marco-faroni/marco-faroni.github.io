@@ -1,7 +1,7 @@
 ---
 title: "Sampling-based motion planning and re-planning"
 excerpt: "New challenges continously arise in motion planning, e.g., planning with complex dynamics or black-box model, manipulation planning with time-critical requirements or under uncertainty.
-I am interested in designing new algorithms for sampling-based motion planning in challenging problems such as kinodynamic motion planning and high-dimensional problems."
+I am interested in designing new sampling-based motion planning algorithms for challenging problems such as kinodynamic motion planning and high-dimensional problems."
 collection: research
 ---
 
