@@ -1,6 +1,6 @@
 ---
 title: "Human-aware decision making for collaborative robotics"
-excerpt: Poor robot planning hinders the effectiveness of human-robot collaboration. This includes
+excerpt: "Poor robot planning hinders the effectiveness of human-robot collaboration. This includes
 conservative implementation of safety rules, planning of
 trajectories that interfere with human movements, and nonoptimized
 design and execution of complex tasks.
