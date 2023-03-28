@@ -12,4 +12,4 @@ I'm a post-doc research fellow at the University of Michigan, working with Prof.
 
 My main research interest is in motion planning in challenging scenarios (e.g., planning with unreliable models and human-robot collaboration) and human-aware decision making.
 
-Email: mfaroni [at] umich.edu
+Email: mfaroni&ensp[at]&enspumich.edu
