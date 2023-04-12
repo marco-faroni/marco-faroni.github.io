@@ -12,16 +12,15 @@ collection: research
 - M. Faroni, M. Beschi, N. Pedrocchi, and A. Visioli, “Predictive inverse kinematics for redundant
 manipulators with task scaling and kinematic constraints,” IEEE Transactions on Robotics, vol. 35,
 no. 1, pp. 278–285, 2019.
-[link](https://hal.science/hal-02982618/document)
+[PDF](https://hal.science/hal-02982618/document)
 
 - M. Faroni, M. Beschi, and N. Pedrocchi, “Inverse kinematics of redundant manipulators with
 dynamic bounds on joint movements,” IEEE Robotics and Automation Letters, vol. 5, pp. 6435–
 6442, 2020.
-[link](https://hal.science/hal-03157810/document)
+[PDF](https://hal.science/hal-03157810/document)
 
-- M. Faroni, M. Beschi, V. Antonio, and L. Molinari Tosatti, “A predictive approach to redundancy resolution for robot manipulators,” IFAC-PapersOnLine, vol. 50, no. 1, pp. 8975–8980,
-2017.
-[link](https://hal.science/hal-02982550/document)
+- M. Faroni, M. Beschi, V. Antonio, and L. Molinari Tosatti, “A predictive approach to redundancy resolution for robot manipulators,” IFAC-PapersOnLine, vol. 50, no. 1, pp. 8975–8980, 2017.
+[PDF](https://hal.science/hal-02982550/document)
 
 - M. Faroni, M. Beschi, N. Pedrocchi, and A. Visioli, “Viability and feasibility of constrained kinematic control of manipulators,” Robotics, vol. 7, no. 3, pp. 1–19, 2018.
-[link](https://www.mdpi.com/2218-6581/7/3/41)
+[PDF](https://www.mdpi.com/2218-6581/7/3/41)
