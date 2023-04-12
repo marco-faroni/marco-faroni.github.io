@@ -10,10 +10,10 @@ You can find the complete list of my articles on [my Google Scholar profile](htt
 This is a shortlist that spans the different research topics I've worked on:
 
 - M. Faroni, A. Umbrico, M. Beschi, A. Orlandini, A. Cesta, and N. Pedrocchi, “Optimal task and motion planning and execution for multi-agent systems in dynamic environments,” IEEE Transactions on Cybernetics, 2023. (In press)
-[[PDF]](https://arxiv.org/abs/2303.14874)
+[[PDF]](https://arxiv.org/pdf/2303.14874.pdf)
 
 - M. Faroni, M. Beschi, and N. Pedrocchi, “Safety-aware time-optimal motion planning with uncertain human state estimation,” IEEE Robotics and Automation Letters, vol. 7, pp. 12219–12226, 2022.
-[[PDF]](https://arxiv.org/abs/2210.11655) [[link]](https://ieeexplore.ieee.org/document/9913366)
+[[PDF]](https://arxiv.org/pdf/2210.11655.pdf) [[link]](https://ieeexplore.ieee.org/document/9913366)
 
 
 - C. Guarino Lo Bianco, M. Faroni, M. Beschi, and A. Visioli, “A predictive technique for the real-time trajectory scaling under high-order constraints,” IEEE/ASME Transactions on Mechatronics,
