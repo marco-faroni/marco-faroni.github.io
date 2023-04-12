@@ -8,12 +8,10 @@ I am interested in developing all-around planning algorithms for effective and s
 collection: research
 ---
 
-<base target="_blank">
-
 ### Selected publications:
 
 - M. Faroni, A. Umbrico, M. Beschi, A. Orlandini, A. Cesta, and N. Pedrocchi, “Optimal task and motion planning and execution for multi-agent systems in dynamic environments,” IEEE Transactions on Cybernetics, 2023. (In press)
-[link](https://arxiv.org/abs/2303.14874)
+[link](https://arxiv.org/abs/2303.14874){:target="_blank"}
 
 - M. Faroni, M. Beschi, and N. Pedrocchi, “Safety-aware time-optimal motion planning with uncertain human state estimation,” IEEE Robotics and Automation Letters, vol. 7, pp. 12219–12226, 2022.
 [link](https://arxiv.org/abs/2210.11655)
