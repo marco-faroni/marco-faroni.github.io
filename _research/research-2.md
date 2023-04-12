@@ -8,10 +8,10 @@ collection: research
 ### Selected publications:
 
 - M. Faroni, M. Beschi, and N. Pedrocchi, “Accelerating sampling-based optimal path planning via adaptive informed sampling,” Submitted to Springer, 2023.
-[link](https://arxiv.org/abs/2208.09318)
+[link](https://arxiv.org/pdf/2208.09318.pdf)
 
 - M. Faroni, M. Beschi, and N. Pedrocchi, “Safety-aware time-optimal motion planning with uncertain human state estimation,” IEEE Robotics and Automation Letters, vol. 7, pp. 12219–12226, 2022.
-[link](https://arxiv.org/abs/2210.11655)
+[link](https://arxiv.org/pdf/2210.11655.pdf)
 
 - C. Tonola, M. Faroni, M. Beschi, and N. Pedrocchi, “Anytime informed multi-path replanning strategy for complex environments,” IEEE Access, vol. 11, pp. 4105–4116, 2023
 [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10013661)
