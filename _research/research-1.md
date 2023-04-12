@@ -8,6 +8,8 @@ I am interested in developing all-around planning algorithms for effective and s
 collection: research
 ---
 
+<base target="_blank">
+
 ### Selected publications:
 
 - M. Faroni, A. Umbrico, M. Beschi, A. Orlandini, A. Cesta, and N. Pedrocchi, “Optimal task and motion planning and execution for multi-agent systems in dynamic environments,” IEEE Transactions on Cybernetics, 2023. (In press)
@@ -23,4 +25,4 @@ collection: research
 [link](https://arxiv.org/abs/2210.11660)
 
 - C. Tonola, M. Faroni, N. Pedrocchi, and M. Beschi, “Anytime informed path re-planning and optimization for human-robot collaboration,” in Proceedings of the IEEE International Conference on Robot and Human Interactive Communication, (Vancouver (Canada)), 2021.
-[link](https://www.researchgate.net/profile/Marco-Faroni/publication/356001902_Anytime_informed_path_re-planning_and_optimization_for_human-robot_collaboration/links/61409afe578238365b098513/Anytime-informed-path-re-planning-and-optimization-for-human-robot-collaboration.pdf)
+[link](https://hal.science/hal-04052752v1/document)
