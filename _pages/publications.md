@@ -18,7 +18,7 @@ This is a shortlist that spans the different research topics I've worked on:
 
 - C. Guarino Lo Bianco, M. Faroni, M. Beschi, and A. Visioli, “A predictive technique for the real-time trajectory scaling under high-order constraints,” IEEE/ASME Transactions on Mechatronics,
 pp. 1–11, 2022.
-[[PDF]](https://www.researchgate.net/publication/349852122_A_Predictive_Technique_for_the_Real-Time_Trajectory_Scaling_under_High-Order_Constraints#fullTextFileContent) [[link]](https://ieeexplore.ieee.org/document/9369148)
+[[PDF]](https://hal.science/hal-04049761v1/document) [[link]](https://ieeexplore.ieee.org/document/9369148)
 
 
 - M. Faroni, M. Beschi, and N. Pedrocchi, “Inverse kinematics of redundant manipulators with
