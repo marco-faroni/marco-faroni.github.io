@@ -5,7 +5,7 @@ I am interested in designing new sampling-based motion planning algorithms for c
 collection: research
 ---
 
-![](ant-path-planning.jpg)
+<br/><img src='/images/ant-path-planning.jpg'>
 
 ### Selected publications:
 
