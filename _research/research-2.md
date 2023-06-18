@@ -5,6 +5,8 @@ I am interested in designing new sampling-based motion planning algorithms for c
 collection: research
 ---
 
+![](ant-path-planning.jpg)
+
 ### Selected publications:
 
 - M. Faroni, M. Beschi, and N. Pedrocchi, “Accelerating sampling-based optimal path planning via adaptive informed sampling,” Submitted to Springer, 2023.
