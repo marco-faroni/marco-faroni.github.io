@@ -9,6 +9,10 @@ You can find the complete list of my articles on [my Google Scholar profile](htt
 
 This is a shortlist that spans the different research topics I've worked on:
 
+
+- M. Faroni, D. Berenson, “Motion Planning as Online Learning: A Multi-Armed Bandit Approach to Kinodynamic Sampling-Based Planning,” IEEE Robotics and Automation Letters, 2023.
+[[PDF]](https://www.researchgate.net/publication/373197114_Motion_Planning_as_Online_Learning_A_Multi-Armed_Bandit_Approach_to_Kinodynamic_Sampling-Based_Planning#fullTextFileContent)
+
 - M. Faroni, A. Umbrico, M. Beschi, A. Orlandini, A. Cesta, and N. Pedrocchi, “Optimal task and motion planning and execution for multi-agent systems in dynamic environments,” IEEE Transactions on Cybernetics, 2023. 
 [[PDF]](https://arxiv.org/pdf/2303.14874.pdf) [[link]](https://ieeexplore.ieee.org/document/10102342)
 
