@@ -7,6 +7,10 @@ collection: research
 
 ### Selected publications:
 
+
+- M. Faroni, D. Berenson, “Motion Planning as Online Learning: A Multi-Armed Bandit Approach to Kinodynamic Sampling-Based Planning,” IEEE Robotics and Automation Letters, 2023.
+[[PDF]](https://www.researchgate.net/publication/373197114_Motion_Planning_as_Online_Learning_A_Multi-Armed_Bandit_Approach_to_Kinodynamic_Sampling-Based_Planning#fullTextFileContent)
+
 - M. Faroni, M. Beschi, and N. Pedrocchi, “Accelerating sampling-based optimal path planning via adaptive informed sampling,” Submitted to Springer, 2023.
 [[PDF]](https://arxiv.org/pdf/2208.09318.pdf)
 
