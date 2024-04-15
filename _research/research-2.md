@@ -8,11 +8,14 @@ collection: research
 ### Selected publications:
 
 
+- M. Faroni, D. Berenson, “Online Adaptation of Sampling-Based Motion Planning with Inaccurate Models,” IEEE ICRA, 2024.
+[[PDF]](https://arxiv.org/pdf/2403.07638.pdf)
+
+- M. Faroni, M. Beschi, and N. Pedrocchi, “Adaptive Hybrid Local-Global Sampling for Fast Informed Sampling-Based Optimal Path Planning,” Autonomous Robots, 2024.
+[[PDF]](https://arxiv.org/pdf/2208.09318.pdf)
+
 - M. Faroni, D. Berenson, “Motion Planning as Online Learning: A Multi-Armed Bandit Approach to Kinodynamic Sampling-Based Planning,” IEEE Robotics and Automation Letters, 2023.
 [[PDF]](https://arxiv.org/pdf/2308.13949.pdf)
-
-- M. Faroni, M. Beschi, and N. Pedrocchi, “Accelerating sampling-based optimal path planning via adaptive informed sampling,” Submitted to Springer, 2023.
-[[PDF]](https://arxiv.org/pdf/2208.09318.pdf)
 
 - M. Faroni, M. Beschi, and N. Pedrocchi, “Safety-aware time-optimal motion planning with uncertain human state estimation,” IEEE Robotics and Automation Letters, vol. 7, pp. 12219–12226, 2022.
 [[PDF]](https://arxiv.org/pdf/2210.11655.pdf)
