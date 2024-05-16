@@ -8,6 +8,10 @@ redundant and non-redundant robots, and joint-space and Cartesian-space tasks.
 collection: research
 ---
 
+[![video1](https://img.youtube.com/vi/J6f8PS0zkJU /default.jpg)](https://youtu.be/J6f8PS0zkJU )
+
+[![video1](https://img.youtube.com/vi/fy40T3PnzSo/default.jpg)](https://youtu.be/fy40T3PnzSo)
+
 ### Selected publications:
 
 - C. Guarino Lo Bianco, M. Faroni, M. Beschi, and A. Visioli, “A predictive technique for the real-time trajectory scaling under high-order constraints,” IEEE/ASME Transactions on Mechatronics, pp. 1–11, 2022.
