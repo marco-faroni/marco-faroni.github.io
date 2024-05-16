@@ -7,7 +7,7 @@ and achieve optimal path following, even when the desired tasks drive the robot 
 collection: research
 ---
 
-[![video1]([https://img.youtube.com/vi/J6f8PS0zkJU](https://youtu.be/J6f8PS0zkJU)/default.jpg)](https://youtu.be/J6f8PS0zkJU)
+[![video1](https://img.youtube.com/vi/J6f8PS0zkJU/2.jpg)](https://youtu.be/J6f8PS0zkJU)
 
 ### Selected publications:
 
