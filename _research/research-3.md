@@ -7,6 +7,8 @@ and achieve optimal path following, even when the desired tasks drive the robot 
 collection: research
 ---
 
+[![video1]([https://img.youtube.com/vi/J6f8PS0zkJU](https://youtu.be/J6f8PS0zkJU)/default.jpg)](https://youtu.be/J6f8PS0zkJU)
+
 ### Selected publications:
 
 - M. Faroni, M. Beschi, N. Pedrocchi, and A. Visioli, “Predictive inverse kinematics for redundant
@@ -18,6 +20,7 @@ no. 1, pp. 278–285, 2019.
 dynamic bounds on joint movements,” IEEE Robotics and Automation Letters, vol. 5, pp. 6435–
 6442, 2020.
 [[PDF]](https://hal.science/hal-03157810/document)
+[[video]](https://youtu.be/J6f8PS0zkJU)
 
 - M. Faroni, M. Beschi, V. Antonio, and L. Molinari Tosatti, “A predictive approach to redundancy resolution for robot manipulators,” IFAC-PapersOnLine, vol. 50, no. 1, pp. 8975–8980, 2017.
 [[PDF]](https://hal.science/hal-02982550/document)
