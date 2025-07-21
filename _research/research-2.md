@@ -7,7 +7,6 @@ collection: research
 
 ### Selected publications:
 
-
 - M. Faroni, D. Berenson, “Online Adaptation of Sampling-Based Motion Planning with Inaccurate Models,” IEEE ICRA, 2024.
 [[PDF]](https://arxiv.org/pdf/2403.07638.pdf)
 
@@ -22,6 +21,3 @@ collection: research
 
 - C. Tonola, M. Faroni, M. Beschi, and N. Pedrocchi, “Anytime informed multi-path replanning strategy for complex environments,” IEEE Access, vol. 11, pp. 4105–4116, 2023
 [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10013661)
-
-- M. Beschi, S. Mutti, G. Nicola, M. Faroni, P. Magnoni, E. Villagrossi, and N. Pedrocchi, “Optimal robot motion planning of redundant robots in machining and additive manufacturing applications,” Electronics, vol. 8, no. 12, p. 1473, 2019.
-[[PDF]](https://www.mdpi.com/2079-9292/8/12/1437)
