@@ -16,11 +16,14 @@ collection: research
 - M. Faroni, M. Beschi, and N. Pedrocchi, “Safety-aware time-optimal motion planning with uncertain human state estimation,” IEEE Robotics and Automation Letters, vol. 7, pp. 12219–12226, 2022.
 [[PDF]](https://arxiv.org/pdf/2210.11655.pdf)
 
-- M. Faroni, M. Beschi, and N. Pedrocchi, “An MPC framework for online motion planning in human-robot collaborative tasks,” in Proceedings of the IEEE International Conference on Emerging Technologies and Factory Automation, (Zaragoza (Spain)), 2019
+- M. Faroni, M. Beschi, and N. Pedrocchi, “An MPC framework for online motion planning in human-robot collaborative tasks,” in Proceedings of the IEEE ETFA, 2019
 [[PDF]](https://hal.science/hal-03157796/document)
 
-- S. Sandrini, M. Faroni, and N. Pedrocchi, “Learning action duration and synergy in task planning for human-robot collaboration,” in Proceedings of the IEEE International Conference on Emerging Technologies and Factory Automation, (Stuttgart (Germany)), 2022
-[[PDF]](https://arxiv.org/pdf/2210.11660.pdf)
+- S. Sandrini, M. Faroni, and N. Pedrocchi, “Learning and planning for optimal synergistic human–robot coordination in manufacturing contexts,” in Robotics and CIM, 2022
+[[PDF]](https://arxiv.org/pdf/2503.07238)
 
-- C. Tonola, M. Faroni, N. Pedrocchi, and M. Beschi, “Anytime informed path re-planning and optimization for human-robot collaboration,” in Proceedings of the IEEE International Conference on Robot and Human Interactive Communication, (Vancouver (Canada)), 2021.
+- C. Cella, M.B. Robin, Marco Faroni, A.M. Zanchettin, P. Rocco, “Digital Model-Driven Genetic Algorithm for Optimizing Layout and Task Allocation in Human-Robot Collaborative Assemblies,” in IEEE ICRA 2025. [[PDF]](https://arxiv.org/pdf/2503.02774)
+
+- C. Tonola, M. Faroni, N. Pedrocchi, and M. Beschi, “Anytime informed path re-planning and optimization for human-robot collaboration,” in IEEE ROMAN, 2021.
 [[PDF]](https://hal.science/hal-04052752v1/document)
+
