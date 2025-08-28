@@ -13,14 +13,11 @@ collection: research
 - M. Faroni, A. Umbrico, M. Beschi, A. Orlandini, A. Cesta, and N. Pedrocchi, “Optimal task and motion planning and execution for multi-agent systems in dynamic environments,” IEEE Transactions on Cybernetics, 2023.
 [[PDF]](https://arxiv.org/pdf/2303.14874.pdf)
 
+- S. Sandrini, M. Faroni, and N. Pedrocchi, “Learning and planning for optimal synergistic human–robot coordination in manufacturing contexts,” in Robotics and CIM, 2025
+[[PDF]](https://arxiv.org/pdf/2503.07238)
+
 - M. Faroni, M. Beschi, and N. Pedrocchi, “Safety-aware time-optimal motion planning with uncertain human state estimation,” IEEE Robotics and Automation Letters, vol. 7, pp. 12219–12226, 2022.
 [[PDF]](https://arxiv.org/pdf/2210.11655.pdf)
-
-- M. Faroni, M. Beschi, and N. Pedrocchi, “An MPC framework for online motion planning in human-robot collaborative tasks,” in Proceedings of the IEEE ETFA, 2019
-[[PDF]](https://hal.science/hal-03157796/document)
-
-- S. Sandrini, M. Faroni, and N. Pedrocchi, “Learning and planning for optimal synergistic human–robot coordination in manufacturing contexts,” in Robotics and CIM, 2022
-[[PDF]](https://arxiv.org/pdf/2503.07238)
 
 - C. Cella, M.B. Robin, Marco Faroni, A.M. Zanchettin, P. Rocco, “Digital Model-Driven Genetic Algorithm for Optimizing Layout and Task Allocation in Human-Robot Collaborative Assemblies,” in IEEE ICRA 2025. [[PDF]](https://arxiv.org/pdf/2503.02774)
 
