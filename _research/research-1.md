@@ -10,6 +10,11 @@ collection: research
 
 ### Selected publications:
 
+- C. Tonola, M. Faroni S. Abdolshah, M. Hamad, S. Haddadin, N. Pedrocchi, and M. Beschi,
+“Reactive and safety-aware path replanning for collaborative applications,” in IEEE Transactions on
+Automation Science and Engineering, 2025
+[[PDF]](https://arxiv.org/pdf/2503.07192)
+
 - M. Faroni, A. Umbrico, M. Beschi, A. Orlandini, A. Cesta, and N. Pedrocchi, “Optimal task and motion planning and execution for multi-agent systems in dynamic environments,” IEEE Transactions on Cybernetics, 2023.
 [[PDF]](https://arxiv.org/pdf/2303.14874.pdf)
 
@@ -20,7 +25,4 @@ collection: research
 [[PDF]](https://arxiv.org/pdf/2210.11655.pdf)
 
 - C. Cella, M.B. Robin, Marco Faroni, A.M. Zanchettin, P. Rocco, “Digital Model-Driven Genetic Algorithm for Optimizing Layout and Task Allocation in Human-Robot Collaborative Assemblies,” in IEEE ICRA 2025. [[PDF]](https://arxiv.org/pdf/2503.02774)
-
-- C. Tonola, M. Faroni, N. Pedrocchi, and M. Beschi, “Anytime informed path re-planning and optimization for human-robot collaboration,” in IEEE ROMAN, 2021.
-[[PDF]](https://hal.science/hal-04052752v1/document)
 
