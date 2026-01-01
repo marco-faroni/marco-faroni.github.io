@@ -9,6 +9,8 @@ You can find the complete list of my articles on [my Google Scholar profile](htt
 
 This is a shortlist that spans the different research topics I've worked on:
 
+- S. Sandrini, M. Faroni and N. Pedrocchi, “Learning and planning for optimal synergistic human-robot coordination in manufacturing contexts,” Robotics and Computer-Integrated Manufacturing, 2025.
+[[PDF]](https://arxiv.org/pdf/2503.07238)[[link]](https://www.sciencedirect.com/science/article/pii/S0736584525000602)
 
 - C. Tonola, M. Faroni S. Abdolshah, M. Hamad, S. Haddadin, N. Pedrocchi, and M. Beschi, “Reactive and safety-aware path replanning for collaborative applications,” IEEE Transactions on Automation Science and Engineering, 2025.
 [[PDF]](https://arxiv.org/pdf/2503.07192)[[link]](https://ieeexplore.ieee.org/document/11153417)
